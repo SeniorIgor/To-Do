@@ -1,4 +1,5 @@
-# To-Do
+# To-Do <img src="https://to-do-cdn.microsoft.com/static-assets/c87265a87f887380a04cf21925a56539b29364b51ae53e089c3ee2b2180148c6/icons/logo.png" 
+alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="50" height="auto"/>
 
 Введение списока дел - лучший способ планирования своего времени. 
 
@@ -18,6 +19,3 @@
 > ```
 > npm install
 > ```  
-
-<img src="https://to-do-cdn.microsoft.com/static-assets/c87265a87f887380a04cf21925a56539b29364b51ae53e089c3ee2b2180148c6/icons/logo.png" 
-alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="100" height="auto"/>
