@@ -20,4 +20,4 @@
 > ```  
 
 <img src="https://to-do-cdn.microsoft.com/static-assets/c87265a87f887380a04cf21925a56539b29364b51ae53e089c3ee2b2180148c6/icons/logo.png" 
-alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" />
+alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="200" height="auto"/>
